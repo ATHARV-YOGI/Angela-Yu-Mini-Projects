@@ -1,0 +1,12 @@
+/* Write your code here: */
+h1,h2{
+    color: skyblue;
+}
+
+.done{
+    color: red;
+}
+li,p{
+    color: yellow;
+
+}
